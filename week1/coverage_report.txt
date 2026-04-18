@@ -1,0 +1,9 @@
+PS C:\Users\ALPHA\sqe-labs-eargemushtaq-dot\week1> coverage report -m
+Name                   Stmts   Miss Branch BrPart  Cover   Missing
+------------------------------------------------------------------
+calculator.py             14      2      2      0    88%   32, 37
+string_utils.py           37      6     22      6    80%   17, 24, 32, 40, 47, 50
+test_calculator.py        45      3      0      0    93%   5, 11-12
+test_string_utils.py      41      0      0      0   100%
+------------------------------------------------------------------
+TOTAL                    137     11     24      6    89%
